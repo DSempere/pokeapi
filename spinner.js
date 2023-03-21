@@ -1,0 +1,1 @@
+export const spinner = document.querySelector("#spinner");
